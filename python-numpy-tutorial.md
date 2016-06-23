@@ -1029,7 +1029,7 @@ across two sets of points; you can read about it
 
 ## Matplotlib
 [Matplotlib](http://matplotlib.org/) is a plotting library. 
-In this section give a brief introduction to the `matplotlib.pyplot` module,
+This section gives a brief introduction to the `matplotlib.pyplot` module,
 which provides a plotting system similar to that of MATLAB.
 
 <a name='matplotlib-plot'></a>
